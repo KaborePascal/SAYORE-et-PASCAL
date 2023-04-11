@@ -2,6 +2,9 @@
     margin: 0%;
     padding: 0%;
 }
+p,h1{
+    font-family: "Montserrat";
+}
 .nav{
     margin: 50px;
     text-align:center;
@@ -26,15 +29,25 @@ hr{
 .sect{
 width: 250px;
 height: 250px;
+
+
 }
 /* .sect1{
-    
+    justify-content: center;
+    gap: 20px;
 } */
 
 .sect2{
    display: flex;
    font-size: 13px;
    gap: 17px; 
+   
+}
+.lot1{
+text-align: center;
+}
+.lot2{
+    text-align: center; 
 }
 .aboutus{
     margin-left: 100px;
